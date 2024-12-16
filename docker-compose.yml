@@ -5,7 +5,7 @@ services:
     image: mysql:8.0
     container_name: container-mysql
     environment:
-      MYSQL_ROOT_PASSWORD: Wissem123!
+      MYSQL_ROOT_PASSWORD: khouloud*123
       MYSQL_DATABASE: db_example
     ports:
       - "3306:3306"
